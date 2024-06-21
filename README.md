@@ -57,9 +57,9 @@ The dataset used for this project consists of images of faces with different exp
 
 You can run the real-time facial expression recognition using the `main.py` script:
 
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python main.py
+   ```
 
 ## Results
 
