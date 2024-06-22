@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Instructions:
 
-1. Replace `"https://github.com/your-username/facial-expressions-recognition.git"` with the actual URL of your GitHub repository.
+1. Replace `"https://github.com/shayan-tej/facial-expressions-recognition.git"` with the actual URL of your GitHub repository.
 2. Ensure `model.h5` and `haarcascade_frontalface_default.xml` are included in your repository, or provide instructions on how to obtain them.
 3. If your project uses a different license, update the `License` section accordingly.
 
